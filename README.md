@@ -1,2 +1,2 @@
-# Clasificador_de_puros_por_tama-os
+# Clasificador de puros
 Prototipo en software y Hadware para clasificar los puros por tamaños
